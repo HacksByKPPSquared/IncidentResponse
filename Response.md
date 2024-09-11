@@ -1,6 +1,6 @@
-1\. Exploiting Java to Attack a Remote System
+# Exploiting Java to Attack a Remote System
 
-1.1. Using the Social Engineering Toolkit (SET)
+## 1.1. Using the Social Engineering Toolkit (SET)
 
 1\. Launch the Kali virtual machine to access the graphical login
 screen.
@@ -19,21 +19,18 @@ loopback interface up.
 <img src="./media/image2.png" style="width:8.19444in;height:4.19444in"
 alt="A computer screen with white text Description automatically generated" />
 
-5\. Start both the apache2 and postgresql services by entering the
-command below.
+5\. Start both the apache2 and postgresql services by entering the command below.
 
 <img src="./media/image3.png" style="width:8.33333in;height:1.63889in"
 alt="A screen shot of a computer Description automatically generated" />
 
-6\. Start the Social Engineering Toolkit by typing the command below.
-Press Enter.
+6\. Start the Social Engineering Toolkit by typing the command below. Press Enter.
 
 root@Kali-Attacker:~# setoolkit
 
 <img src="./media/image4.png" style="width:8.27778in;height:5in" />
 
-7\. When presented with the SET main menu, type 1 for Social-Engineering
-Attacks. Press Enter
+7\. When presented with the SET main menu, type 1 for Social-Engineering Attacks. Press Enter
 
 <img src="./media/image5.png"
 style="width:4.88889in;height:2.69444in" />
@@ -43,8 +40,7 @@ style="width:4.88889in;height:2.69444in" />
 <img src="./media/image6.png"
 style="width:4.63889in;height:3.48611in" />
 
-9\. Choose the Metasploit Browser Exploit Method by typing the number 2.
-Press Enter.
+9\. Choose the Metasploit Browser Exploit Method by typing the number 2. Press Enter.
 
 <img src="./media/image7.png" style="width:8.23611in;height:3.18056in"
 alt="A screen shot of a computer Description automatically generated" />
