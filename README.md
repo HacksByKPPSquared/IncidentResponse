@@ -1,4 +1,4 @@
-# 💻 Lab 09 - Exploiting Java to Attack a Remote System 🔥
+# 💻 Exploiting Java to Attack a Remote System 🔥
 
 In this lab, we go full-on hacker mode (don’t worry, it's all in the name of learning!) as we use the **Social Engineering Toolkit (SET)** to exploit Java vulnerabilities and gain access to remote systems. Buckle up—it’s about to get technical, but also a lot of fun! 😎
 
